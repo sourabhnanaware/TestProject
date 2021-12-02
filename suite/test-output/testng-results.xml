@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-27T09:16:38 PST" name="Default suite" finished-at="2021-11-27T09:17:05 PST" duration-ms="26553">
+    <groups>
+    </groups>
+    <test started-at="2021-11-27T09:16:38 PST" name="Default test" finished-at="2021-11-27T09:17:05 PST" duration-ms="26553">
+      <class name="testclasses.NewTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testclasses.NewTest@51dcb805]" started-at="2021-11-27T09:16:38 PST" name="launchBrowser" finished-at="2021-11-27T09:16:57 PST" duration-ms="18688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:testclasses.NewTest@51dcb805]" started-at="2021-11-27T09:16:57 PST" name="openApplication" finished-at="2021-11-27T09:16:57 PST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="VerifyLoginButton()[pri:0, instance:testclasses.NewTest@51dcb805]" started-at="2021-11-27T09:16:57 PST" name="VerifyLoginButton" finished-at="2021-11-27T09:17:04 PST" duration-ms="7462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginButton -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testclasses.NewTest@51dcb805]" started-at="2021-11-27T09:17:04 PST" name="closeBrowser" finished-at="2021-11-27T09:17:05 PST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testclasses.NewTest@51dcb805]" started-at="2021-11-27T09:17:05 PST" name="closeBrowser" finished-at="2021-11-27T09:17:05 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testclasses.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
